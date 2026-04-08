@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "JCB Flooring",
+    "phone": "+14048242578",
+    "category": "flooring contractor",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Atlanta's Trusted Flooring Experts",
+      "heroSubline": "JCB Flooring delivers superior craftsmanship and lasting value. Get a free quote today for your home or business.",
+      "aboutTitle": "Crafting Atlanta's Floors for Over a Decade",
+      "aboutText": [
+        "JCB Flooring started with a simple mission: to provide Atlanta homeowners and businesses with exceptional flooring solutions built to last. Founded by a local craftsman with a passion for quality, we've grown from a small team to a trusted name in the community.",
+        "We believe in a hands-on approach, from initial consultation to final inspection. Our team uses only premium materials and proven techniques to ensure a flawless installation that stands the test of time. We're not satisfied until you are.",
+        "As an Atlanta-based company, we're committed to giving back to the community that supports us. We actively participate in local initiatives and prioritize eco-friendly practices to minimize our environmental impact."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precision and care in every project, ensuring lasting beauty and performance."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "Sourcing the finest hardwoods, laminates, and tiles for superior durability."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear, upfront estimates with no hidden fees or surprises."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Atlanta's unique climate and housing styles."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Schedule a free consultation and discover the perfect flooring solution for your needs."
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring",
+        "shortDescription": "Timeless elegance and lasting value with expert hardwood installation.",
+        "description": "JCB Flooring specializes in the installation, repair, and refinishing of hardwood floors. From classic oak to exotic hardwoods, we offer a wide selection of premium materials to suit any style and budget. We understand Atlanta's climate and its impact on wood flooring, especially with our red clay soil and seasonal humidity. Our experienced team ensures proper acclimation and installation techniques to minimize expansion and contraction, preventing future problems. \n\nWhether you're looking to install new hardwood floors in your Virginia-Highland bungalow or refinish existing floors in your Midtown condo, we have the expertise to deliver exceptional results. We handle everything from subfloor preparation to the final coat of finish, ensuring a smooth and seamless process. We also offer dustless sanding options to minimize disruption to your home.\n\nWe work with both solid and engineered hardwood, helping you choose the best option for your specific needs and traffic levels. Our commitment to quality craftsmanship and attention to detail guarantees a beautiful and durable hardwood floor that will enhance the value of your home for years to come.",
+        "process": [
+          "Step 1: Consultation & Selection - We discuss your needs and help you choose the perfect hardwood.",
+          "Step 2: Subfloor Preparation - We ensure a level and stable subfloor for optimal installation.",
+          "Step 3: Professional Installation - Our skilled team installs your hardwood with precision and care.",
+          "Step 4: Finishing & Sealing - We apply a durable finish to protect your investment and enhance its beauty."
+        ],
+        "benefits": [
+          "Increases home value",
+          "Adds warmth and character",
+          "Durable and long-lasting",
+          "Easy to clean and maintain"
+        ],
+        "faq": [
+          {
+            "question": "What type of hardwood is best for Atlanta's climate?",
+            "answer": "Engineered hardwood is often recommended due to its stability in humid conditions. Solid hardwood can be used, but proper acclimation and installation are crucial."
+          },
+          {
+            "question": "How long does hardwood flooring installation take?",
+            "answer": "The duration depends on the size and complexity of the project, but typically ranges from 3-7 days. We'll provide a detailed timeline during the consultation."
+          },
+          {
+            "question": "Do you offer dustless sanding?",
+            "answer": "Yes, we offer dustless sanding options to minimize dust and disruption during the refinishing process."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Affordable and stylish laminate flooring options for any room.",
+        "description": "Looking for a budget-friendly flooring solution that doesn't compromise on style? JCB Flooring offers a wide range of high-quality laminate flooring options that mimic the look of hardwood, tile, and stone. Laminate is a durable and easy-to-maintain choice, perfect for busy families and high-traffic areas in Atlanta homes.\n\nWe understand that Atlanta homeowners want flooring that can withstand the wear and tear of daily life. Our laminate floors are scratch-resistant, water-resistant, and easy to clean, making them ideal for kitchens, bathrooms, and living rooms. We offer a variety of styles, colors, and textures to complement any décor, from modern condos in Buckhead to traditional homes in Inman Park.\n\nOur experienced installation team ensures a precise and professional installation, guaranteeing a seamless and long-lasting floor. We handle everything from subfloor preparation to the final trim, providing a hassle-free experience for our customers. Choose from a wide variety of laminate styles and find the perfect look for your space.",
+        "process": [
+          "Step 1: Selection & Measurement - Choose your laminate style and we'll accurately measure your space.",
+          "Step 2: Subfloor Preparation - We prepare the subfloor to ensure a smooth and level surface.",
+          "Step 3: Professional Installation - Our skilled installers expertly lay your laminate flooring.",
+          "Step 4: Finishing Touches - We add trim and moldings for a polished and complete look."
+        ],
+        "benefits": [
+          "Affordable and budget-friendly",
+          "Durable and scratch-resistant",
+          "Easy to clean and maintain",
+          "Wide variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While laminate is water-resistant, it's not completely waterproof. We recommend avoiding prolonged exposure to moisture and cleaning up spills promptly."
+          },
+          {
+            "question": "Can laminate flooring be installed over concrete?",
+            "answer": "Yes, laminate flooring can be installed over concrete, but proper moisture testing and preparation are essential."
+          },
+          {
+            "question": "How long does laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last for 10-20 years."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring",
+        "name": "Tile Flooring",
+        "shortDescription": "Durable and elegant tile flooring solutions for kitchens, bathrooms, and more.",
+        "description": "JCB Flooring offers a wide selection of tile flooring options, including ceramic, porcelain, and natural stone. Tile is a versatile and durable choice, perfect for kitchens, bathrooms, and other high-moisture areas in Atlanta homes. We understand the importance of proper installation to prevent water damage and ensure a long-lasting floor.\n\nOur experienced team has years of experience installing tile in Atlanta homes, from historic bungalows in Virginia-Highland to modern condos in Midtown. We pay close attention to detail, ensuring proper waterproofing, grout lines, and sealing to create a beautiful and functional tile floor that will stand the test of time. We handle everything from demolition of existing flooring to the final grout cleaning.\n\nWe also offer custom tile designs and patterns to create a unique and personalized look for your home. Whether you're looking for a classic subway tile backsplash or a modern geometric floor, we can bring your vision to life.",
+        "process": [
+          "Step 1: Design Consultation - We help you select the perfect tile and design for your space.",
+          "Step 2: Demolition & Preparation - We remove existing flooring and prepare the subfloor.",
+          "Step 3: Expert Installation - Our skilled team installs your tile with precision and care.",
+          "Step 4: Grouting & Sealing - We grout and seal the tile to protect against moisture and stains."
+        ],
+        "benefits": [
+          "Water-resistant and durable",
+          "Easy to clean and maintain",
+          "Versatile and stylish",
+          "Adds value to your home"
+        ],
+        "faq": [
+          {
+            "question": "What type of tile is best for a bathroom floor?",
+            "answer": "Porcelain tile is a popular choice for bathroom floors due to its water resistance and durability."
+          },
+          {
+            "question": "How often should tile grout be sealed?",
+            "answer": "Tile grout should be sealed every 1-2 years to prevent staining and water damage."
+          },
+          {
+            "question": "Can tile be installed over existing tile?",
+            "answer": "In some cases, tile can be installed over existing tile, but proper preparation and adhesion are crucial."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Waterproof and resilient vinyl flooring for any room.",
+        "description": "JCB Flooring provides a diverse selection of vinyl flooring solutions, encompassing sheet vinyl, vinyl tiles, and luxury vinyl planks (LVP). Vinyl is an excellent choice for Atlanta homeowners seeking a waterproof, durable, and cost-effective flooring option, especially given our humid summers and occasional basement flooding. Ideal for kitchens, bathrooms, basements, and laundry rooms, vinyl offers resilience against moisture and daily wear.\n\nOur skilled installation team ensures meticulous installation, guaranteeing a seamless and durable floor that can withstand Atlanta's active lifestyle. We pay special attention to subfloor preparation and proper sealing to protect against moisture damage. We offer a wide variety of styles and colors to complement any décor.\n\nFrom classic wood looks to modern tile designs, vinyl flooring provides a versatile and affordable way to enhance the beauty and functionality of your home.",
+        "process": [
+          "Step 1: Site Assessment & Selection - Evaluate the subfloor conditions and choose the right vinyl.",
+          "Step 2: Subfloor Prep - Leveling and cleaning the subfloor to ensure solid adhesion.",
+          "Step 3: Vinyl Installation - Precise cutting and laying of vinyl to prevent gaps and bubbles.",
+          "Step 4: Sealing & Finishing - Sealing the edges to prevent moisture penetration."
+        ],
+        "benefits": [
+          "Waterproof and moisture-resistant",
+          "Highly durable and scratch-resistant",
+          "Comfortable underfoot",
+          "Easy to clean and maintain"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for basements?",
+            "answer": "Yes, vinyl flooring is an excellent choice for basements due to its waterproof properties."
+          },
+          {
+            "question": "How do I clean vinyl flooring?",
+            "answer": "Vinyl flooring can be easily cleaned with a damp mop and mild detergent."
+          },
+          {
+            "question": "What is the difference between sheet vinyl and vinyl planks?",
+            "answer": "Sheet vinyl comes in large rolls for seamless installation, while vinyl planks are individual pieces that mimic the look of hardwood."
+          }
+        ]
+      },
+      {
+        "slug": "floor-repair",
+        "name": "Floor Repair Services",
+        "shortDescription": "Expert floor repair to restore your floors to their original beauty.",
+        "description": "JCB Flooring offers comprehensive floor repair services to address a wide range of issues, from minor scratches and dents to major water damage and structural problems. We understand that Atlanta's climate and seasonal changes can take a toll on your floors, especially with the expansion and contraction of red clay soil affecting foundations.\n\nOur experienced team has the skills and expertise to repair all types of flooring, including hardwood, laminate, tile, and vinyl. We use only the highest quality materials and proven techniques to ensure a long-lasting repair that seamlessly blends with your existing floor. We can handle everything from replacing damaged planks to repairing subfloor issues.\n\nDon't let damaged floors detract from the beauty and value of your home. Contact JCB Flooring today for a free estimate and let us restore your floors to their original glory.",
+        "process": [
+          "Step 1: Damage Assessment - Thoroughly inspect the damage and determine the best repair approach.",
+          "Step 2: Material Selection - Match the existing flooring material and color for seamless repairs.",
+          "Step 3: Repair Execution - Skillfully repair or replace damaged sections.",
+          "Step 4: Finishing & Cleanup - Sanding, staining, and sealing to match the existing finish."
+        ],
+        "benefits": [
+          "Extends the life of your floors",
+          "Restores beauty and value",
+          "Prevents further damage",
+          "Cost-effective solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my floors need repair?",
+            "answer": "Signs of floor damage include cracks, dents, water stains, loose tiles, and squeaking boards."
+          },
+          {
+            "question": "Can you repair water-damaged floors?",
+            "answer": "Yes, we can repair water-damaged floors, but the extent of the damage will determine the repair options."
+          },
+          {
+            "question": "How long does floor repair take?",
+            "answer": "The duration of floor repair depends on the extent of the damage and the type of flooring, but we'll provide a detailed timeline during the estimate."
+          }
+        ]
+      },
+      {
+        "slug": "subfloor-installation",
+        "name": "Subfloor Installation & Repair",
+        "shortDescription": "Ensure a solid foundation with expert subfloor services.",
+        "description": "JCB Flooring provides expert subfloor installation and repair services, ensuring a solid foundation for your new or existing floors. A properly installed and maintained subfloor is crucial for the longevity and performance of your flooring, especially in Atlanta where shifting soil can cause settling issues.\n\nWe work with all types of subflooring, including plywood, OSB, and concrete. Our experienced team ensures that your subfloor is level, dry, and free of defects before installing your new flooring. We also offer subfloor repair services to address issues such as water damage, rot, and structural problems.\n\nDon't underestimate the importance of a solid subfloor. Contact JCB Flooring today for a free estimate and let us ensure that your floors have the foundation they need to last for years to come.",
+        "process": [
+          "Step 1: Inspection - Thoroughly inspect the existing subfloor for damage or defects.",
+          "Step 2: Preparation - Clean and level the subfloor surface.",
+          "Step 3: Installation or Repair - Install new subfloor or repair damaged areas.",
+          "Step 4: Securing - Secure the subfloor with appropriate fasteners."
+        ],
+        "benefits": [
+          "Provides a stable base for your flooring",
+          "Prevents squeaking and movement",
+          "Extends the life of your flooring",
+          "Ensures a smooth and even surface"
+        ],
+        "faq": [
+          {
+            "question": "Why is subfloor important?",
+            "answer": "The subfloor provides a stable and level surface for your flooring, preventing movement, squeaking, and premature wear."
+          },
+          {
+            "question": "How do I know if my subfloor needs repair?",
+            "answer": "Signs of subfloor damage include uneven floors, squeaking, soft spots, and water stains."
+          },
+          {
+            "question": "Can you install a subfloor over concrete?",
+            "answer": "Yes, we can install a subfloor over concrete, but proper moisture testing and preparation are essential."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Marietta",
+        "slug": "marietta-ga",
+        "state": "GA",
+        "content": "JCB Flooring is proud to offer comprehensive flooring services to the residents and businesses of Marietta, Georgia. Known for its charming historic square and a mix of established neighborhoods, Marietta presents unique flooring needs. Many homes in Marietta's 1960s and 70s subdivisions benefit from flooring upgrades that enhance their classic appeal. We specialize in a variety of flooring options, from hardwood refinishing to modern luxury vinyl plank, perfectly suited for Marietta's diverse architectural styles.\n\nOur team understands the challenges of Marietta's hot, humid summers and offers flooring solutions designed to withstand these conditions. We provide expert installation and repair services, ensuring your floors look beautiful and last for years to come. Whether you're renovating a historic home or updating a commercial space, JCB Flooring is your trusted partner in Marietta.",
+        "localContext": "Marietta features many established subdivisions built in the 1960s and 1970s, with a climate characterized by hot, humid summers, making durable and moisture-resistant flooring options ideal.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Kennesaw",
+          "Roswell"
+        ]
+      },
+      {
+        "city": "Roswell",
+        "slug": "roswell-ga",
+        "state": "GA",
+        "content": "JCB Flooring is committed to providing top-quality flooring services in Roswell, Georgia. Roswell is known for its upscale 1980s and 90s subdivisions and vibrant community. We cater to the specific needs of Roswell homeowners and businesses, offering a wide selection of premium flooring materials and expert installation services. From elegant hardwood to durable tile and modern carpet, we have the perfect flooring solution for every Roswell property.\n\nWe understand the importance of quality and craftsmanship, and our team is dedicated to exceeding your expectations. With Roswell's hot, humid summers, selecting the right flooring is crucial. We offer moisture-resistant options and professional installation to ensure your floors stand the test of time. Trust JCB Flooring to enhance the beauty and value of your Roswell home or business.",
+        "localContext": "Roswell features upscale subdivisions primarily developed in the 1980s and 1990s, and experiences hot, humid summers, making durable and stylish flooring choices essential.",
+        "nearbyAreas": [
+          "Alpharetta",
+          "Marietta",
+          "Sandy Springs"
+        ]
+      },
+      {
+        "city": "Alpharetta",
+        "slug": "alpharetta-ga",
+        "state": "GA",
+        "content": "JCB Flooring proudly serves the Alpharetta, Georgia community with exceptional flooring services. Alpharetta is a thriving city known for its upscale developments from the 1990s and 2000s. We specialize in providing high-quality flooring solutions that complement Alpharetta's modern and sophisticated aesthetic. Whether you're building a new home, renovating an existing property, or upgrading a commercial space, we have the perfect flooring to meet your needs.\n\nOur experienced team is dedicated to providing superior craftsmanship and customer service. We offer a wide range of flooring options, including hardwood, tile, carpet, and luxury vinyl, all designed to withstand Alpharetta's hot, humid summers. Choose JCB Flooring for reliable and beautiful flooring solutions in Alpharetta.",
+        "localContext": "Alpharetta's developments are primarily from the 1990s and 2000s, and the climate is characterized by hot, humid summers, demanding flooring that combines style with resilience.",
+        "nearbyAreas": [
+          "Roswell",
+          "Johns Creek",
+          "Milton"
+        ]
+      },
+      {
+        "city": "Johns Creek",
+        "slug": "johns-creek-ga",
+        "state": "GA",
+        "content": "JCB Flooring is your trusted source for premium flooring services in Johns Creek, Georgia. Johns Creek is known for its upscale subdivisions built in the 1990s and 2000s, and we are dedicated to providing flooring solutions that enhance the beauty and value of Johns Creek homes and businesses. We offer a wide selection of flooring options, from classic hardwood to contemporary tile and plush carpet, all expertly installed by our skilled team.\n\nWe understand the importance of quality and durability, especially in Johns Creek's hot, humid climate. That's why we offer moisture-resistant flooring options and professional installation services to ensure your floors last for years to come. Trust JCB Flooring to provide exceptional flooring solutions for your Johns Creek property.",
+        "localContext": "Johns Creek's subdivisions are predominantly from the 1990s and 2000s, and the city experiences hot, humid summers, making durable, moisture-resistant flooring a popular choice.",
+        "nearbyAreas": [
+          "Alpharetta",
+          "Suwanee",
+          "Duluth"
+        ]
+      },
+      {
+        "city": "Kennesaw",
+        "slug": "kennesaw-ga",
+        "state": "GA",
+        "content": "JCB Flooring is proud to serve the Kennesaw, Georgia community with top-notch flooring services. Kennesaw features suburban developments from the 1980s and 90s. We offer a wide range of flooring options to suit every style and budget, from traditional hardwood to modern luxury vinyl plank. Our experienced team is dedicated to providing expert installation and exceptional customer service.\n\nWe understand the unique needs of Kennesaw homeowners and businesses, and we offer flooring solutions designed to withstand the local climate. With Kennesaw's hot, humid summers, choosing the right flooring is essential. Trust JCB Flooring to provide durable and beautiful flooring that enhances your property's value.",
+        "localContext": "Kennesaw features suburban developments primarily from the 1980s and 1990s, and experiences hot, humid summers, necessitating durable and climate-appropriate flooring solutions.",
+        "nearbyAreas": [
+          "Marietta",
+          "Acworth",
+          "Smyrna"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-ga",
+        "state": "GA",
+        "content": "JCB Flooring extends its expert flooring services to the vibrant community of Smyrna, Georgia. Smyrna blends historic charm with modern growth, requiring adaptable flooring solutions for diverse properties. We cater to both older homes and newer constructions, offering a wide range of flooring options from classic hardwood refinishing to contemporary tile and carpet installations. Our team is committed to providing exceptional craftsmanship and personalized service to meet your specific needs.\n\nUnderstanding Smyrna's climate, we offer durable and moisture-resistant flooring choices perfect for the hot, humid summers. Whether you're renovating a family home or updating a commercial space, JCB Flooring provides reliable and aesthetically pleasing flooring solutions.",
+        "localContext": "Smyrna is a diverse community with a blend of older homes and new developments, experiencing hot, humid summers, making durable and versatile flooring options ideal.",
+        "nearbyAreas": [
+          "Marietta",
+          "Vinings",
+          "Atlanta"
+        ]
+      },
+      {
+        "city": "Sandy Springs",
+        "slug": "sandy-springs-ga",
+        "state": "GA",
+        "content": "JCB Flooring is delighted to offer its premier flooring services to Sandy Springs, Georgia, a thriving city known for its upscale homes and businesses. We provide a wide array of flooring options, from luxurious hardwood to modern tile and elegant carpeting, tailored to enhance the beauty and value of your property. Our skilled team ensures precise installations and exceptional customer service, meeting the high standards of the Sandy Springs community.\n\nWe appreciate the importance of durability and style, especially given Sandy Springs' climate. Our flooring solutions are designed to withstand the hot, humid summers while maintaining aesthetic appeal. Trust JCB Flooring to deliver superior flooring installations and renovations that transform your space.",
+        "localContext": "Sandy Springs is characterized by upscale homes and businesses and experiences hot, humid summers, demanding flooring that combines elegance with resilience.",
+        "nearbyAreas": [
+          "Roswell",
+          "Dunwoody",
+          "Atlanta"
+        ]
+      },
+      {
+        "city": "Dunwoody",
+        "slug": "dunwoody-ga",
+        "state": "GA",
+        "content": "JCB Flooring is proud to provide top-notch flooring services to the residents and businesses of Dunwoody, Georgia. Known for its family-friendly atmosphere and blend of established and newer homes, Dunwoody presents varied flooring needs. We offer a comprehensive range of flooring options, from hardwood and laminate to tile and carpet, ensuring we have the perfect solution for every style and budget.\n\nOur experienced team is dedicated to delivering superior craftsmanship and exceptional customer service. We understand the importance of durability, especially given Dunwoody's climate. We provide flooring solutions designed to withstand the hot, humid summers, ensuring your floors look beautiful and last for years to come.",
+        "localContext": "Dunwoody is known for its family-friendly environment and a mix of established and newer homes, with a climate of hot, humid summers, making durable and attractive flooring choices crucial.",
+        "nearbyAreas": [
+          "Sandy Springs",
+          "Roswell",
+          "Brookhaven"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alice M.",
+        "rating": 5,
+        "service": "Hardwood Flooring Installation",
+        "text": "JCB Flooring did an amazing job installing new hardwood floors in my living room. The team was professional, efficient, and the floors look absolutely beautiful. Very happy with the result!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "Bob K.",
+        "rating": 4,
+        "service": "Laminate Flooring Installation",
+        "text": "We hired JCB Flooring to install laminate in our basement. The price was reasonable, and the installation was quick. There was a small issue with the trim, but they came back and fixed it promptly. Good service overall.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Carolyn S.",
+        "rating": 5,
+        "service": "Tile Flooring Installation",
+        "text": "JCB Flooring transformed my kitchen with beautiful new tile floors. The installers were meticulous and paid attention to every detail. I highly recommend them for any tile project!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Floor Repair Services",
+        "text": "I had some water damage in my bathroom and JCB Flooring did a fantastic job repairing the floor. They were able to match the existing tile perfectly and the repair is seamless. Excellent work!",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Vinyl Flooring Installation",
+        "text": "JCB Flooring installed new vinyl flooring in my laundry room. The process was smooth and the floor looks great. The only reason I didn't give 5 stars is because the initial quote was slightly lower than the final price due to some unforeseen subfloor issues.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Frank T.",
+        "rating": 5,
+        "service": "Hardwood Floor Refinishing",
+        "text": "Our old hardwood floors were looking tired and worn. JCB Flooring refinished them and they look brand new! The team was professional, courteous, and did an amazing job. Highly recommend!",
+        "date": "2024-12-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "JCB Flooring | Atlanta Flooring Contractor",
+        "description": "Expert flooring installation and repair services in Atlanta, GA. Hardwood, laminate, tile, and more. Free quotes!"
+      },
+      "about": {
+        "title": "About JCB Flooring | Atlanta, GA",
+        "description": "Learn about JCB Flooring's commitment to quality and customer satisfaction in Atlanta, Georgia."
+      },
+      "services": {
+        "title": "JCB Flooring Services | Atlanta, GA",
+        "description": "Explore our comprehensive flooring services in Atlanta: hardwood, laminate, tile, vinyl, and floor repair."
+      },
+      "contact": {
+        "title": "Contact JCB Flooring | Atlanta, GA",
+        "description": "Get in touch with JCB Flooring for a free quote on your next flooring project in Atlanta, GA."
+      },
+      "reviews": {
+        "title": "JCB Flooring Reviews | Atlanta, GA",
+        "description": "See what our satisfied customers are saying about JCB Flooring's services in Atlanta, Georgia."
+      },
+      "service-areas": {
+        "title": "Service Areas | JCB Flooring",
+        "description": "Areas JCB Flooring serves in Atlanta, GA."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "tile-flooring": "/images/service-tile-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "floor-repair": "/images/service-floor-repair.webp",
+      "subfloor-installation": "/images/service-subfloor-installation.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring": {
+        "src": "/images/service-tile-flooring.webp",
+        "srcset": "/images/service-tile-flooring-400w.webp 400w, /images/service-tile-flooring-800w.webp 800w, /images/service-tile-flooring-1200w.webp 1200w, /images/service-tile-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-repair": {
+        "src": "/images/service-floor-repair.webp",
+        "srcset": "/images/service-floor-repair-400w.webp 400w, /images/service-floor-repair-800w.webp 800w, /images/service-floor-repair-1200w.webp 1200w, /images/service-floor-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "subfloor-installation": {
+        "src": "/images/service-subfloor-installation.webp",
+        "srcset": "/images/service-subfloor-installation-400w.webp 400w, /images/service-subfloor-installation-800w.webp 800w, /images/service-subfloor-installation-1200w.webp 1200w, /images/service-subfloor-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
